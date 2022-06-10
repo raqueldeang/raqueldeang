@@ -1,9 +1,10 @@
 Hi, I’m Raquel 👋
 --
-I'm a **Front-end Developer** with **UI/UX Design** skills based on **Pampanga, Philippines**.
+I'm a **Front-end Developer** with **UI/UX Design** skills.
 
-Currently. . .
+Currently...
 --
+- 📍 Based in the Philippines
 - 👩‍💻 Working as a Software Engineer
 - 📑 Learning VueJS and SMM stuff
 - 🔍 Looking for a startup or side project
