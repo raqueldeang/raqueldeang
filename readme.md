@@ -4,7 +4,7 @@ I'm a **Front-end Developer** with **UI/UX Design** skills.
 
 Currently...
 --
-- 📍 Based in the Philippines
+- 📍 Philippines
 - 👩‍💻 Working as a Software Engineer
 - 📑 Learning VueJS and SMM stuff
 - 🔍 Looking for a startup or side project
